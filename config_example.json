@@ -1,0 +1,10 @@
+{
+	"token": "DISCORD_TOKEN",
+	"roles": [
+		{
+			"guild_id": 1234567890,
+			"role_id": 1234567890,
+			"command": ["python", "manage.py", "list_my_users"]
+		}
+	]
+}
